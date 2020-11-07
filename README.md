@@ -8,8 +8,9 @@ I fell in love with machine learning and try to improve my skill in it.
 <hr />
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thytu&count_private=true&show_icons=true" style="display: in-line"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thytu&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thytu&count_private=true&show_icons=true&hide_border=true" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thytu&layout=compact&hide_border=true' alt='github' height='160'/>
 </details>
 
 #### Contact me !
