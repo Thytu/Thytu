@@ -5,7 +5,7 @@ I fell in love with machine learning and try to improve my skill in it.
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=Thytu&style=flat-square"/></code>
-[![GitHub followers](https://img.shields.io/github/followers/Thytu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Thytu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Thytu?tab=followers)
 
 <hr />
 
