@@ -10,7 +10,7 @@ I fell in love with machine learning and try to improve my skill in it.
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thytu&count_private=true&show_icons=true&hide_border=true" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thytu&layout=compact&hide_border=true' alt='github' height='160'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=thytu&layout=compact&hide_border=true' alt='github' height='100'/>
 </details>
 
 #### Contact me !
