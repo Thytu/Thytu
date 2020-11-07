@@ -3,7 +3,9 @@
 Currently head of AI at [PoC Innovation](https://github.com/PoCInnovation).<br>
 I fell in love with machine learning and try to improve my skill in it.
 
-<img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/>
+<code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
+<code><img src="https://visitor-badge.glitch.me/badge?page_id=Thytu&style=flat-square"/></code>
+[![GitHub followers](https://img.shields.io/github/followers/Thytu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 
 <hr />
 
@@ -14,6 +16,7 @@ I fell in love with machine learning and try to improve my skill in it.
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="30"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" height="30"></code>
