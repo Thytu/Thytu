@@ -1,7 +1,7 @@
 # Hi there 👋
 
-Currently head of AI at [PoC Innovation](https://github.com/PoCInnovation).<br>
-I fell in love with machine learning and try to improve my skill in it.
+Former Head of AI at [PoC Innovation](https://github.com/PoCInnovation) and currently AI Engineer @[Blackfoot](https://blackfoot.io).<br>
+I fell in love with deep learning and try to improve my skill in it.
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=Thytu&style=flat-square"/></code>
