@@ -1,7 +1,6 @@
 # Hi there 👋
 
-Former Head of AI at [PoC Innovation](https://github.com/PoCInnovation) and currently Lead AI Engineer @[Gladia](https://github.com/gladiaio).<br>
-I fell in love with deep learning and try to improve my skill in it.
+Lead AI Engineer @[GladIA](https://github.com/gladiaio).<br>
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=Thytu&style=flat-square"/></code>
