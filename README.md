@@ -1,6 +1,7 @@
 # Hi there 👋
 
-Lead AI Engineer @[GladIA](https://github.com/gladiaio).<br>
+Lead AI Engineer @[GladIA](https://github.com/gladiaio), for more informations 👉 [Thytu.com](https://thytu.com/about/)
+<br>
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
 <code><img src="https://visitor-badge.glitch.me/badge?page_id=Thytu&style=flat-square"/></code>
