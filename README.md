@@ -4,7 +4,8 @@ AI Engineer building stuff, for more informations 👉 [Thytu.com](https://thytu
 
 Creator of :
 - [ClpGen](https://clpgen.com/): Unleash Your Creativity with AI-Powered Video Generation
-- [Essor](https://essor.dev/): Revolutionize YourHR with AI
+- [Essor](https://essor.dev/): Revolutionize Your HR with AI
+- LinkedInAPI: TBA
 <br>
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
