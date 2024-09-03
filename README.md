@@ -1,10 +1,13 @@
 # Hi there 👋
 
-Lead AI Engineer @[GladIA](https://github.com/gladiaio), for more informations 👉 [Thytu.com](https://thytu.com/about/)
+AI Engineer building stuff, for more informations 👉 [Thytu.com](https://thytu.com/about/)
+
+Creator of :
+- [ClpGen](https://clpgen.com/): Unleash Your Creativity with AI-Powered Video Generation
+- [Essor](https://essor.dev/): Revolutionize YourHR with AI
 <br>
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
-<code><img src="https://visitor-badge.glitch.me/badge?page_id=Thytu&style=flat-square"/></code>
 [![GitHub followers](https://img.shields.io/github/followers/Thytu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Thytu?tab=followers)
 
 <hr />
