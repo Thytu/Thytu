@@ -3,7 +3,7 @@
 AI Engineer building stuff, for more informations 👉 [Thytu.com](https://thytu.com/about/)
 
 Creator of :
-- [PerformanceLab?](https://performancelab.thytu.com/): Automate A/B testing using hundreds of AI Agents
+- [PerformanceLab](https://performancelab.thytu.com/): Automate A/B testing using hundreds of AI Agents
 - [Agentarium](https://github.com/Thytu/Agentarium): Creating Social Simulation using AI-Agents
 <br>
 
