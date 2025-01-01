@@ -3,8 +3,8 @@
 AI Engineer building stuff, for more informations 👉 [Thytu.com](https://thytu.com/about/)
 
 Creator of :
-- [AnyRecs?](https://anyrecs.app/): Connect, Recommend and Inspire
-- [ClpGen](https://clpgen.com/): Unleash Your Creativity with AI-Powered Video Generation
+- [PerformanceLab?](https://performancelab.thytu.com/): Automate A/B testing using hundreds of AI Agents
+- [Agentarium](https://github.com/Thytu/Agentarium): Creating Social Simulation using AI-Agents
 <br>
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
