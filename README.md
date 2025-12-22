@@ -1,10 +1,11 @@
 # Hi there 👋
 
-Co-Founding Laneo and building stuff, for more informations 👉 [Thytu.com](https://thytu.com/about/)
+Human on Earth and AI Engineer at [Delphi](https://www.delphi.ai/), more about me 👉 [Thytu.com](https://thytu.com/about/)
 
 Creator of :
-- [PerformanceLab](https://performancelab.thytu.com/): Automate A/B testing using hundreds of AI Agents
 - [Agentarium](https://github.com/Thytu/Agentarium): Creating Social Simulation using AI-Agents
+- [XRSS](https://github.com/thytu/xrss): Transform tweets into an elegant RSS feed: custom filters, user tracking, and real-time updates.
+- [StockLLM](https://github.com/Thytu/StockLLM): Elevating Chess Strategy with Fine-Tuned Large Language Model
 <br>
 
 <code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
