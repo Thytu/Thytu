@@ -6,7 +6,7 @@ Creator of :
 - [StockLLM](https://github.com/Thytu/StockLLM): Elevating Chess Strategy with Fine-Tuned Large Language Model
 <br>
 
-<code><img src="https://img.shields.io/badge/🌐%20%20country-France%20🇫🇷-blue"/></code>
+<code><img src="https://img.shields.io/badge/🌐%20%20country-USA%20🇺🇸 & France%20🇫🇷-blue"/></code>
 [![GitHub followers](https://img.shields.io/github/followers/Thytu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Thytu?tab=followers)
 
 <hr />
