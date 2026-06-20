@@ -1,5 +1,3 @@
-# Hi there 👋
-
 Human on Earth and AI Engineer at [Delphi](https://www.delphi.ai/), more about me 👉 [Thytu.com](https://thytu.com/about/)
 
 Creator of :
